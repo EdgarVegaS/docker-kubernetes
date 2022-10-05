@@ -15,6 +15,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ms-usuario</module>
+        <module>ms-cursos</module>
     </modules>
 
     <properties>
